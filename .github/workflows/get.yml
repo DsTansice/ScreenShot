@@ -42,7 +42,6 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://akilar.top/ -o akilar.top.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://0skyu.cn/ -o 0skyu.cn.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.stevelbr.top/ -o blog.stevelbr.top.jpg
-        curl https://image.thum.io/get/width/1024/crop/768/https://bbslt.0sky.cf/ai/ -o bbslt.0sky.cfai.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://musicvip.0sky.cf/ -o musicvip.0sky.cf.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://yasuo.0skyu.cn/ -o yasuo.0skyu.cn.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://musicvip.0sky.cf/wy/ -o musicvip.0sky.cfwy.jpg
