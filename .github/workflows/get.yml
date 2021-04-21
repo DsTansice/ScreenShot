@@ -44,9 +44,6 @@ jobs:
         curl https://image.thum.io/get/width/1024/crop/768/https://blog.stevelbr.top/ -o blog.stevelbr.top.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://musicvip.0sky.cf/ -o musicvip.0sky.cf.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://yasuo.0skyu.cn/ -o yasuo.0skyu.cn.jpg
-        curl https://image.thum.io/get/width/1024/crop/768/https://musicvip.0sky.cf/wy/ -o musicvip.0sky.cfwy.jpg
-        curl https://image.thum.io/get/width/1024/crop/768/https://musicvip.0sky.cf/bb/ -o https://musicvip.0sky.cfbb.jpg
-        curl https://image.thum.io/get/width/1024/crop/768/https://musicvip.0sky.cf/bb2/ -o musicvip.0sky.cfbb2.jpg
         curl https://image.thum.io/get/width/1024/crop/768/https://kureijinoringo.github.io/ -o kureijinoringo.github.io.jpg
         curl https://purge.jsdelivr.net/gh/DsTansice/ScreenShot@gh-pages/*.*
 
